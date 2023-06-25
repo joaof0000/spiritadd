@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .question {
+    margin-bottom: 10px;
+  }
+  
+  .answer-input {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #email-input {
+    margin-top: 20px;
+  }
+  
+  #submit-btn {
+    margin-top: 20px;
+  }
+  
